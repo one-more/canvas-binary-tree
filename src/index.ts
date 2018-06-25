@@ -1,4 +1,4 @@
-import Point from "./Point"
+import Point from "./point"
 import PositionsTree from "./posiitons-tree"
 
 export default function canvasTree(canvas: HTMLCanvasElement, tree): void {
